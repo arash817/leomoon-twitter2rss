@@ -1,6 +1,6 @@
 # LeoMoon Twitter2RSS
 ## Introduction
-Twitter stopped supporting RSS when their API 1.1 was introduced. To get the latest tweets or to automate things (using RSS), you have use their API 1.1 with OAuth. LeoMoon Twitter2RSS is made this make this proccess much easier. With this you can generate latest tweets for your account and use it in different places like IFTTT.com
+Twitter stopped supporting RSS when their API 1.1 was introduced. To get the latest tweets or to automate things (using RSS), you have use their API 1.1 with OAuth. LeoMoon Twitter2RSS is made to make this proccess much easier. With this you can generate latest tweets for your account and use it in different places like IFTTT.com
 
 ### Written by
   - Amin Babaeipanah
