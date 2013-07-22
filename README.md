@@ -1,12 +1,16 @@
-* **Written by**
+# LeoMoon Twitter2RSS
+## Introduction
+Twitter stopped supporting RSS when their API 1.1 was introduced. To get the latest tweets or to automate things (using RSS), you have use their API 1.1 with OAuth. LeoMoon Twitter2RSS is made this make this proccess much easier. With this you can generate latest tweets for your account and use it in different places like IFTTT.com
+
+### Written by
   - Amin Babaeipanah
   - Arash Soleimani
 
-* **Changelog**
+### Changelog
   - 1.0: First release with no cache (cron based)
   - 1.1: Cache added by Arash Soleimani and cron feature was removed
 
-* **How to install**
+### How to install
   - 01: Sign up for Twitter developer account with your twitter login @: https://dev.twitter.com/apps
   - 02: Create a new application
   - 03: Fill "Name", "Description", and "Website". "Website" must be the same website where this script will be installed...
