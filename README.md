@@ -9,6 +9,7 @@ Twitter stopped supporting RSS when their API 1.1 was introduced. To get the lat
 ## Changelog
   - 1.0: First release with no cache (cron based)
   - 1.1: Cache added by Arash Soleimani and cron feature was removed
+  - 1.2: Twitter2RSS is now a class (twitter2rss.class.php)
 
 ## How to install
   - 01: Sign up for Twitter developer account with your twitter login @: https://dev.twitter.com/apps
@@ -26,3 +27,4 @@ Twitter stopped supporting RSS when their API 1.1 was introduced. To get the lat
       * www.yourwebsite.com/twitter2rss/cache/
   - 10: Go to "www.yourwebsite.com/twitter2rss/index.php" and your rss will be genrated
   - 11: If "www.yourwebsite.com/twitter2rss/cache/" is empty, then change permission of "cache" folder to 777.
+  - xx: If you had any problems, you can look at index.php example file.
