@@ -7,9 +7,9 @@ Twitter stopped supporting RSS when their API 1.1 was introduced. To get the lat
   - Arash Soleimani
 
 ## Changelog
-  - 1.0: First release with no cache (cron based)
-  - 1.1: Cache added by Arash Soleimani and cron feature was removed
   - 1.2: Twitter2RSS is now a class (twitter2rss.class.php)
+  - 1.1: Cache added by Arash Soleimani and cron feature was removed
+  - 1.0: First release with no cache (cron based)
 
 ## How to install
   - 00: If you have any problems, you can look at index.php example file.
